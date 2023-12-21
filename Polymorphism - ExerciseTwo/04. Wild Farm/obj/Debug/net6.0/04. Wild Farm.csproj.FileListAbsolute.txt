@@ -1,0 +1,15 @@
+C:\Моника\Monika OOP\Polymorphism - ExerciseTwo\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.csproj.AssemblyReference.cache
+C:\Моника\Monika OOP\Polymorphism - ExerciseTwo\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моника\Monika OOP\Polymorphism - ExerciseTwo\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.AssemblyInfoInputs.cache
+C:\Моника\Monika OOP\Polymorphism - ExerciseTwo\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.AssemblyInfo.cs
+C:\Моника\Monika OOP\Polymorphism - ExerciseTwo\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.csproj.CoreCompileInputs.cache
+C:\Моника\Monika OOP\Polymorphism - ExerciseTwo\04. Wild Farm\bin\Debug\net6.0\04. Wild Farm.exe
+C:\Моника\Monika OOP\Polymorphism - ExerciseTwo\04. Wild Farm\bin\Debug\net6.0\04. Wild Farm.deps.json
+C:\Моника\Monika OOP\Polymorphism - ExerciseTwo\04. Wild Farm\bin\Debug\net6.0\04. Wild Farm.runtimeconfig.json
+C:\Моника\Monika OOP\Polymorphism - ExerciseTwo\04. Wild Farm\bin\Debug\net6.0\04. Wild Farm.dll
+C:\Моника\Monika OOP\Polymorphism - ExerciseTwo\04. Wild Farm\bin\Debug\net6.0\04. Wild Farm.pdb
+C:\Моника\Monika OOP\Polymorphism - ExerciseTwo\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.dll
+C:\Моника\Monika OOP\Polymorphism - ExerciseTwo\04. Wild Farm\obj\Debug\net6.0\refint\04. Wild Farm.dll
+C:\Моника\Monika OOP\Polymorphism - ExerciseTwo\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.pdb
+C:\Моника\Monika OOP\Polymorphism - ExerciseTwo\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.genruntimeconfig.cache
+C:\Моника\Monika OOP\Polymorphism - ExerciseTwo\04. Wild Farm\obj\Debug\net6.0\ref\04. Wild Farm.dll

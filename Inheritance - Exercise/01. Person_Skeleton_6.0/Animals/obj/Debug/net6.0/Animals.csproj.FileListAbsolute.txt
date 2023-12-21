@@ -1,0 +1,15 @@
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Animals\bin\Debug\net6.0\Animals.exe
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Animals\bin\Debug\net6.0\Animals.deps.json
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Animals\bin\Debug\net6.0\Animals.dll
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Animals\bin\Debug\net6.0\Animals.pdb
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.csproj.AssemblyReference.cache
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.dll
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Animals\obj\Debug\net6.0\refint\Animals.dll
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.pdb
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Animals\obj\Debug\net6.0\ref\Animals.dll

@@ -1,0 +1,15 @@
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\TelephonyN\bin\Debug\net6.0\TelephonyN.exe
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\TelephonyN\bin\Debug\net6.0\TelephonyN.deps.json
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\TelephonyN\bin\Debug\net6.0\TelephonyN.runtimeconfig.json
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\TelephonyN\bin\Debug\net6.0\TelephonyN.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\TelephonyN\bin\Debug\net6.0\TelephonyN.pdb
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\TelephonyN\obj\Debug\net6.0\TelephonyN.csproj.AssemblyReference.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\TelephonyN\obj\Debug\net6.0\TelephonyN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\TelephonyN\obj\Debug\net6.0\TelephonyN.AssemblyInfoInputs.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\TelephonyN\obj\Debug\net6.0\TelephonyN.AssemblyInfo.cs
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\TelephonyN\obj\Debug\net6.0\TelephonyN.csproj.CoreCompileInputs.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\TelephonyN\obj\Debug\net6.0\TelephonyN.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\TelephonyN\obj\Debug\net6.0\refint\TelephonyN.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\TelephonyN\obj\Debug\net6.0\TelephonyN.pdb
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\TelephonyN\obj\Debug\net6.0\TelephonyN.genruntimeconfig.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\TelephonyN\obj\Debug\net6.0\ref\TelephonyN.dll

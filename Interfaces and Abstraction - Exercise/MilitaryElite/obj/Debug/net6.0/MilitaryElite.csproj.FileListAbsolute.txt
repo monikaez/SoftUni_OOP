@@ -1,0 +1,15 @@
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.exe
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.deps.json
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.runtimeconfig.json
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.pdb
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.AssemblyReference.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfoInputs.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfo.cs
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\refint\MilitaryElite.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.pdb
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.genruntimeconfig.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\ref\MilitaryElite.dll

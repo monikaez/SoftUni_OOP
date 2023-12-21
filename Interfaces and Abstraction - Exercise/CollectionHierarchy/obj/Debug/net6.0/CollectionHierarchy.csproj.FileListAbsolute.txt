@@ -1,0 +1,15 @@
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.exe
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.deps.json
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.runtimeconfig.json
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.pdb
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.csproj.AssemblyReference.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.AssemblyInfo.cs
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\net6.0\refint\CollectionHierarchy.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.pdb
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.genruntimeconfig.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\net6.0\ref\CollectionHierarchy.dll

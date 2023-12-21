@@ -1,0 +1,15 @@
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations1\bin\Debug\net6.0\BirthdayCelebrations1.exe
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations1\bin\Debug\net6.0\BirthdayCelebrations1.deps.json
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations1\bin\Debug\net6.0\BirthdayCelebrations1.runtimeconfig.json
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations1\bin\Debug\net6.0\BirthdayCelebrations1.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations1\bin\Debug\net6.0\BirthdayCelebrations1.pdb
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations1\obj\Debug\net6.0\BirthdayCelebrations1.csproj.AssemblyReference.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations1\obj\Debug\net6.0\BirthdayCelebrations1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations1\obj\Debug\net6.0\BirthdayCelebrations1.AssemblyInfoInputs.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations1\obj\Debug\net6.0\BirthdayCelebrations1.AssemblyInfo.cs
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations1\obj\Debug\net6.0\BirthdayCelebrations1.csproj.CoreCompileInputs.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations1\obj\Debug\net6.0\BirthdayCelebrations1.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations1\obj\Debug\net6.0\refint\BirthdayCelebrations1.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations1\obj\Debug\net6.0\BirthdayCelebrations1.pdb
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations1\obj\Debug\net6.0\BirthdayCelebrations1.genruntimeconfig.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations1\obj\Debug\net6.0\ref\BirthdayCelebrations1.dll

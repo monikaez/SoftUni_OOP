@@ -1,0 +1,15 @@
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.exe
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.deps.json
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.runtimeconfig.json
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.dll
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.pdb
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.AssemblyReference.cache
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfo.cs
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.dll
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\refint\PlayersAndMonsters.dll
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.pdb
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.genruntimeconfig.cache
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\ref\PlayersAndMonsters.dll

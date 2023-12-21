@@ -1,0 +1,15 @@
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Person\bin\Debug\net6.0\Person.exe
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Person\bin\Debug\net6.0\Person.deps.json
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Person\bin\Debug\net6.0\Person.runtimeconfig.json
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Person\bin\Debug\net6.0\Person.dll
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Person\bin\Debug\net6.0\Person.pdb
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Person\obj\Debug\net6.0\Person.csproj.AssemblyReference.cache
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Person\obj\Debug\net6.0\Person.dll
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Person\obj\Debug\net6.0\refint\Person.dll
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Person\obj\Debug\net6.0\Person.pdb
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
+C:\Моника\Monika OOP\Inheritance - Exercise\01. Person_Skeleton_6.0\Person\obj\Debug\net6.0\ref\Person.dll

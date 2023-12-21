@@ -1,0 +1,15 @@
+C:\Моника\Monika OOP\Interfaces and Abstraction - ExerciseTwo\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+C:\Моника\Monika OOP\Interfaces and Abstraction - ExerciseTwo\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+C:\Моника\Monika OOP\Interfaces and Abstraction - ExerciseTwo\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+C:\Моника\Monika OOP\Interfaces and Abstraction - ExerciseTwo\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - ExerciseTwo\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+C:\Моника\Monika OOP\Interfaces and Abstraction - ExerciseTwo\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.AssemblyReference.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - ExerciseTwo\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моника\Monika OOP\Interfaces and Abstraction - ExerciseTwo\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - ExerciseTwo\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+C:\Моника\Monika OOP\Interfaces and Abstraction - ExerciseTwo\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - ExerciseTwo\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - ExerciseTwo\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - ExerciseTwo\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+C:\Моника\Monika OOP\Interfaces and Abstraction - ExerciseTwo\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - ExerciseTwo\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll

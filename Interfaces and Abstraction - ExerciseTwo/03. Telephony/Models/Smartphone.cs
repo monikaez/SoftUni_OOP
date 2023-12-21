@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Telephony.Models.Interfaces;
+
+namespace Telephony.Models;
+
+public class Smartphone : ICallable, IBrowsable
+{
+    public string Browse(string url)
+    {
+        if (!ValidateUrl( url))
+        {
+            throw new ArgumentException("Invalid URL!");
+        }
+        return $"Browsing: {url}!";
+    }
+
+    public string Call(string phoneNumber)
+    {
+        if (!ValidatePhoneNumber(phoneNumber))
+        {
+            throw new ArgumentException("Invalid number!");
+        }
+        return $"Dialing... {phoneNumber}";
+
+    }
+
+    private bool ValidatePhoneNumber(string phoneNumber) => phoneNumber.All(n => char.IsDigit(n));
+    private bool ValidateUrl(string url) => url.All(n => !char.IsDigit(n));
+}
+//The Smartphone can call other phones and browse the world wide web

@@ -1,0 +1,15 @@
+C:\Моника\Monika OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.csproj.AssemblyReference.cache
+C:\Моника\Monika OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моника\Monika OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.AssemblyInfoInputs.cache
+C:\Моника\Monika OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.AssemblyInfo.cs
+C:\Моника\Monika OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Моника\Monika OOP\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\net6.0\03. Shopping Spree.exe
+C:\Моника\Monika OOP\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\net6.0\03. Shopping Spree.deps.json
+C:\Моника\Monika OOP\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\net6.0\03. Shopping Spree.runtimeconfig.json
+C:\Моника\Monika OOP\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\net6.0\03. Shopping Spree.dll
+C:\Моника\Monika OOP\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\net6.0\03. Shopping Spree.pdb
+C:\Моника\Monika OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.dll
+C:\Моника\Monika OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\refint\03. Shopping Spree.dll
+C:\Моника\Monika OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.pdb
+C:\Моника\Monika OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.genruntimeconfig.cache
+C:\Моника\Monika OOP\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\net6.0\ref\03. Shopping Spree.dll

@@ -1,0 +1,15 @@
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BordersControl\bin\Debug\net6.0\BordersControl.exe
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BordersControl\bin\Debug\net6.0\BordersControl.deps.json
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BordersControl\bin\Debug\net6.0\BordersControl.runtimeconfig.json
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BordersControl\bin\Debug\net6.0\BordersControl.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BordersControl\bin\Debug\net6.0\BordersControl.pdb
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BordersControl\obj\Debug\net6.0\BordersControl.csproj.AssemblyReference.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BordersControl\obj\Debug\net6.0\BordersControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BordersControl\obj\Debug\net6.0\BordersControl.AssemblyInfoInputs.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BordersControl\obj\Debug\net6.0\BordersControl.AssemblyInfo.cs
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BordersControl\obj\Debug\net6.0\BordersControl.csproj.CoreCompileInputs.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BordersControl\obj\Debug\net6.0\BordersControl.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BordersControl\obj\Debug\net6.0\refint\BordersControl.dll
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BordersControl\obj\Debug\net6.0\BordersControl.pdb
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BordersControl\obj\Debug\net6.0\BordersControl.genruntimeconfig.cache
+C:\Моника\Monika OOP\Interfaces and Abstraction - Exercise\BordersControl\obj\Debug\net6.0\ref\BordersControl.dll
